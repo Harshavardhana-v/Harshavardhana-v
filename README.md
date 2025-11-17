@@ -7,7 +7,7 @@
 <h3 align="center">
 I write code, break stuff (ethically), fix stuff, and build cool projects when the Wi-Fi cooperates.
 Currently leveling up in full-stack development, cybersecurity, and real-world software engineering.
-Also: coffee, memes, and debugging at 2 AM are part of my brand. 😄
+Also: coffee, memes, and debugging at 2 AM are part of my brand. 
 </h3>
 
 <!-- 🔥 Holopin Badge Section -->
