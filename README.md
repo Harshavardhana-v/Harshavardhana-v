@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ascii-portrait.png" alt="ASCII portrait" width="420" />
+  <img src="assets/hero.gif" alt="Developer coding and debugging next to a brain full of hot tech topics" width="830" />
 </p>
 
 <p align="center">
