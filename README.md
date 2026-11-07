@@ -2,16 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Harshavardhana%20V&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Harshavardhana V" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="assets/ascii-portrait.png" alt="ASCII portrait" width="420" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="assets/info-card.svg" alt="Harshavardhana V - info card" width="520" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/ascii-portrait.png" alt="ASCII portrait" width="420" />
+</p>
+
+<p align="center">
+  <img src="assets/terminal.svg" alt="Harshavardhana V - terminal intro" width="820" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshavardhana-v-6a4862325"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -56,17 +53,6 @@
 </p>
 
 ---
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhana-v&show_icons=true&theme=tokyonight" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhana-v&layout=compact&theme=tokyonight" height="180" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhana-v&theme=react-dark&hide_border=true" alt="Contribution activity graph" />
-</p>
 
 ### 🐍 Contribution snake
 
