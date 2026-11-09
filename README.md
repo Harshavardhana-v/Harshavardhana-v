@@ -24,7 +24,7 @@
 ---
 
 ### 🚀 Featured projects
-
+// projects
 | Project | What it is | Stack |
 |---|---|---|
 | **AMR-Predict v2.0** | GenAI-powered clinical decision support for antimicrobial resistance prediction, with SHAP explanations | Python, Flask, XGBoost, React, OpenAI API |
@@ -32,7 +32,7 @@
 | **Retail E-commerce Analytics** | Streaming and batch analytics pipeline with a dashboard | Kafka, HDFS, MapReduce, Flask |
 
 ### 🛠️ Languages and tools
-
+//tech stack
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -55,7 +55,7 @@
 ---
 
 ### 🐍 Contribution snake
-
+//snake contribution
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshavardhana-v/harshavardhana-v/output/github-contribution-grid-snake-dark.svg" />
